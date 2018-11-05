@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "442965901947",
+    "firebase_url": "https://baymaxhealthcare-abc.firebaseio.com",
+    "project_id": "baymaxhealthcare-abc",
+    "storage_bucket": "baymaxhealthcare-abc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442965901947:android:9219d2b2c39046e2",
+        "android_client_info": {
+          "package_name": "com.sawapps.baymaxhealthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442965901947-immbtc269a2r2hr0v07ee5mnjka4kre9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYhACPp-Bppc1t-tivF0RKwf5X-zJt2VQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
