@@ -107,3 +107,5 @@ And parsing it in MyDiet Activity with Recycler View and in Nutrients View
 Calculating BMI taking weight and height as inputs and using above table info.
 
 Video link: https://youtu.be/6ON6F2VFWRA
+
+PPT Link: https://drive.google.com/file/d/1Za9Cl7Vk9PdqqpZM1n_KIl3AevRPsQfO/view?usp=sharing
